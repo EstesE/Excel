@@ -1,0 +1,12 @@
+c:\users\eric\documents\visual studio 2013\Projects\Excel2\Excel2\bin\Debug\Excel2.exe.config
+c:\users\eric\documents\visual studio 2013\Projects\Excel2\Excel2\obj\Debug\Excel2.csprojResolveAssemblyReference.cache
+c:\users\eric\documents\visual studio 2013\Projects\Excel2\Excel2\bin\Debug\Excel2.exe
+c:\users\eric\documents\visual studio 2013\Projects\Excel2\Excel2\bin\Debug\Excel2.pdb
+c:\users\eric\documents\visual studio 2013\Projects\Excel2\Excel2\obj\Debug\Excel2.exe
+c:\users\eric\documents\visual studio 2013\Projects\Excel2\Excel2\obj\Debug\Excel2.pdb
+C:\Users\eric\Documents\Visual Studio 2013\Projects\ExcelX\Excel2\bin\Debug\Excel2.exe.config
+C:\Users\eric\Documents\Visual Studio 2013\Projects\ExcelX\Excel2\obj\Debug\Excel2.exe
+C:\Users\eric\Documents\Visual Studio 2013\Projects\ExcelX\Excel2\obj\Debug\Excel2.pdb
+C:\Users\eric\Documents\Visual Studio 2013\Projects\ExcelX\Excel2\bin\Debug\Excel2.exe
+C:\Users\eric\Documents\Visual Studio 2013\Projects\ExcelX\Excel2\bin\Debug\Excel2.pdb
+C:\Users\eric\Documents\Visual Studio 2013\Projects\ExcelX\Excel2\obj\Debug\Excel2.csprojResolveAssemblyReference.cache
